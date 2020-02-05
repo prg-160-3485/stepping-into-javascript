@@ -26,3 +26,9 @@ else if statement
 logical operations
 - removed previous code in test.js
 - added logical operations js to return "You can come, you cool dude"
+
+while loops
+- removed previous code in test.js
+- added while loop in test.js to read....you are now over 10
+- also to show 5 times in console.... Your age is less than 10
+
