@@ -22,3 +22,7 @@ if Statement
 else if statement
 - removed previous code in test.js
 - added else if statement to read "you are over 30"
+
+logical operations
+- removed previous code in test.js
+- added logical operations js to return "You can come, you cool dude"
