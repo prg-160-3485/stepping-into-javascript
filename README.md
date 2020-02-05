@@ -18,3 +18,7 @@ Where to put JS
 if Statement
 - removed alert form test.js file 
 - added if statement to read true to "you like meat"
+
+else if statement
+- removed previous code in test.js
+- added else if statement to read "you are over 30"
