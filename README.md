@@ -40,5 +40,9 @@ break and continue
 - removed previous code and added break and continue
 - continue lets the loop keep going until it hits break
 
+practical example using loops
+- removed previous code in test.js and added loop
+- changed links in index.html file from 1-6 to 0-5
+
 
 
