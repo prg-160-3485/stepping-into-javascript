@@ -32,3 +32,8 @@ while loops
 - added while loop in test.js to read....you are now over 10
 - also to show 5 times in console.... Your age is less than 10
 
+for loop
+- removed previous code in test.js and added for loop
+- added 6 links to index.html file
+
+
