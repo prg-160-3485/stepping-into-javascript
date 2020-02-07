@@ -36,4 +36,9 @@ for loop
 - removed previous code in test.js and added for loop
 - added 6 links to index.html file
 
+break and continue
+- removed previous code and added break and continue
+- continue lets the loop keep going until it hits break
+
+
 
