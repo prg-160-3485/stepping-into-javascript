@@ -1,21 +1,11 @@
 // JavaScript Document
 
-for (i = 0; i < 10; i++) {
+var links = document.getElementsByTagName("a");
+
+for(i = 0; i < links.length; i++){
 	
-	if(i === 5 || i === 3){
-		
-		continue;
-		
-	}
+	links[i].className = "link-" + i;
 	
-	console.log(i);
-		
-	if(i === 7){
-		
-		break;
-		
-	}
+	
 	
 }
-
-console.log("I have broken out of the loop");
