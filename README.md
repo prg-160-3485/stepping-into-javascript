@@ -48,5 +48,10 @@ functions
 - removed previous code in test.js and added a function
 - function returns the average of 5 numbers in console
 
+variable scope
+- moved.... console.log("the average is " + myResult + " inside the function"); below function logResult()
+- Global variable is declared outside of the function
+- Local variable is declared inside of the function
+
 
 
